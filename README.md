@@ -13,7 +13,7 @@ This is a basic tip calculator application
 - Added app icon
 
 ### Walk-through
-![Tipsy](http://i.imgur.com/SljYZ5t.gif)
+![Tipsy](http://i.imgur.com/Advh5KN.gif)
 
 ### Time-frame
 2.5 hours to complete
