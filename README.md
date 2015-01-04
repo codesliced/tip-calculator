@@ -10,9 +10,10 @@ This is a basic tip calculator application
 ### Optional Tasks
 - Changed the colors and fonts of the views
 - Added a custom font - Avenir
+- Added app icon
 
 ### Walk-through
 ![Tipsy](http://i.imgur.com/SljYZ5t.gif)
 
 ### Time-frame
-2 hours to complete
+2.5 hours to complete
